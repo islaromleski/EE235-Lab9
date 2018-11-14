@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\nh5802eo\Documents\Atmel Studio\7.0\Lab9\Lab9\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.63\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\nh5802eo\Documents\Atmel Studio\7.0\Lab9\Lab9\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.63\avrasm\inc\ATxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\nh5802eo\Documents\Atmel Studio\7.0\Lab9\Lab9\Debug\Lab9.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab9.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab9.map</FILE>
+  <FILE>Lab9.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\nh5802eo\Documents\Atmel Studio\7.0\Lab9\Lab9\main.asm</FILE><LINE>19</LINE></start>
+  <PF_INT0_ISR><FILE>C:\Users\nh5802eo\Documents\Atmel Studio\7.0\Lab9\Lab9\main.asm</FILE><LINE>48</LINE></PF_INT0_ISR>
+  <forever><FILE>C:\Users\nh5802eo\Documents\Atmel Studio\7.0\Lab9\Lab9\main.asm</FILE><LINE>43</LINE></forever>
+  <toggleOn><FILE>C:\Users\nh5802eo\Documents\Atmel Studio\7.0\Lab9\Lab9\main.asm</FILE><LINE>62</LINE></toggleOn>
+  <toggleOff><FILE>C:\Users\nh5802eo\Documents\Atmel Studio\7.0\Lab9\Lab9\main.asm</FILE><LINE>67</LINE></toggleOff>
+  <return><FILE>C:\Users\nh5802eo\Documents\Atmel Studio\7.0\Lab9\Lab9\main.asm</FILE><LINE>72</LINE></return>
+ </LABELS>
+</ASSEMBLER_INFO>
